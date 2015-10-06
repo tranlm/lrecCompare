@@ -1,0 +1,9 @@
+Package: lrecCompare
+Title: Comparative methods in the estimation of a treatment specific mean outcome
+Version: 0.0.0.9000
+Date: 2015-4-27
+Authors@R: person("Linh", "Tran", role=c("aut", "cre"), email="tranlm@berkeley.edu")
+Description: This study compares various approaches at estimating a target parameter in our longitudinal setting in both simulations and practice. It uses the gcomp, iptw, tile, and double robust method presented by Bang and Robins (2005).
+Depends: R (>= 3.1.1)
+License: GPL-2
+LazyData: true
